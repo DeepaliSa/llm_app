@@ -7,4 +7,3 @@ accelerate
 requests
 streamlit
 IPython
-pip
